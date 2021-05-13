@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "babel-node main.js"
+    "build": "babel-node main.js"
   },
   "devDependencies": {
     "@babel/core": "^7.14.2",
